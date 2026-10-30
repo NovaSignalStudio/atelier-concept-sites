@@ -1,0 +1,30 @@
+[
+  {
+    "site": "vetra",
+    "file": "assets/architecture.jpg",
+    "source": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1800&q=85&fit=crop&auto=format",
+    "bytes": 473484,
+    "usage": "Editorial stock image for a clearly labelled fictional concept; not evidence of premises, staff or patient outcomes."
+  },
+  {
+    "site": "vetra",
+    "file": "assets/stairs.jpg",
+    "source": "https://images.unsplash.com/photo-1511818966892-d7d671e672a2?w=1400&q=85&fit=crop&auto=format",
+    "bytes": 333296,
+    "usage": "Editorial stock image for a clearly labelled fictional concept; not evidence of premises, staff or patient outcomes."
+  },
+  {
+    "site": "vetra",
+    "file": "assets/office.jpg",
+    "source": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=1400&q=85&fit=crop&auto=format",
+    "bytes": 208218,
+    "usage": "Editorial stock image for a clearly labelled fictional concept; not evidence of premises, staff or patient outcomes."
+  },
+  {
+    "site": "vetra",
+    "file": "assets/detail.jpg",
+    "source": "https://images.unsplash.com/photo-1487958449943-2429e8be8625?w=1200&q=85&fit=crop&auto=format",
+    "bytes": 145129,
+    "usage": "Editorial stock image for a clearly labelled fictional concept; not evidence of premises, staff or patient outcomes."
+  }
+]
