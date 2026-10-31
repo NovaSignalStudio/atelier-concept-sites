@@ -18,3 +18,9 @@
 .motion-off .scene-reveal{opacity:1;transform:none}.motion-off h1 [data-line]>span{transform:none}.motion-off .table-note,.motion-off .dossier-card{transform:none}
 
 .welcome-copy h1 em{font-style:normal;color:#638b85}
+
+@media(min-width:1101px){.stage-image-note{left:50%;width:225px;gap:13px}.stage-image-note figure{width:64px;height:66px}}
+@media(min-width:1500px){.stage-image-note{left:52%}}
+.welcome-copy h1>[data-line]:nth-child(-n+2){color:#234e46}
+
+@media(max-width:800px){.care-pass-options>button{font-size:12px;min-height:44px}.care-pass-body>p,.care-pass-result>p{font-size:11px}.care-pass-result>.action{font-size:11px}.dossier-tabs button{font-size:11px}.table-note>.action{font-size:12px}.table-note>p{font-size:12px}.brief-options>button{min-height:49px}}
