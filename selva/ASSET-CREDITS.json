@@ -40,5 +40,12 @@
     "source": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=1000&q=85&fit=crop&auto=format",
     "bytes": 88305,
     "usage": "Editorial stock image for a clearly labelled fictional concept; not evidence of premises, staff or patient outcomes."
+  },
+  {
+    "file": "assets/campaign.jpg",
+    "source": "Original AI-generated campaign artwork, built-in image_gen, 2026-10-31",
+    "usage": "Fictional concept; not actual premises, staff, patients, results or a served dish.",
+    "prompt_record": "edition-02-art-direction.json",
+    "bytes": 299996
   }
 ]
