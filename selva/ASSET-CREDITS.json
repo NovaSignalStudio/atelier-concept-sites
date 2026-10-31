@@ -47,5 +47,19 @@
     "usage": "Fictional concept; not actual premises, staff, patients, results or a served dish.",
     "prompt_record": "edition-02-art-direction.json",
     "bytes": 299996
+  },
+  {
+    "site": "selva",
+    "file": "assets/ingredients-v2.jpg",
+    "source": "Original AI-generated campaign image, 2026-10-31",
+    "bytes": 526028,
+    "usage": "Fictional concept art direction. Not a real business, premises, person or clinical outcome."
+  },
+  {
+    "site": "selva",
+    "file": "assets/room-v2.jpg",
+    "source": "Original AI-generated campaign image, 2026-10-31",
+    "bytes": 387456,
+    "usage": "Fictional concept art direction. Not a real business, premises, person or clinical outcome."
   }
 ]
