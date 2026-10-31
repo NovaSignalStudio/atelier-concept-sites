@@ -24,5 +24,6 @@ body.luma{--paper:#f6f7f3;--ink:#1a384b;--accent:#356781;--muted:#55707e;--line:
 .selva.v2-edition:not(.v2-home) .site-header,.vetra.v2-edition:not(.v2-home) .site-header{color:#eeeae2;border-color:#eeeae230}
 .selva.v2-edition:not(.v2-home) .site-header .button{background:transparent;color:#eeeae2;border-color:#eeeae280}
 .vetra.v2-edition:not(.v2-home) .site-header .button{background:#d9916e;color:#1c1e1b;border-color:#d9916e}
+.selva .inner-hero .lead{color:#c5c9b8}
 @media(max-height:620px) and (min-width:801px){.s-cinema{height:auto}.s-cinema-stage{position:relative;height:620px}}
 @media(max-width:800px){.l-opening{height:930px;min-height:0;background:#c9dfe8}.l-opening-copy{top:115px;max-width:88%;z-index:2}.l-opening-copy h1{font-size:58px;line-height:.96;margin:28px 0 25px}.l-photo{inset:500px 0 0 12%;border-radius:120px 0 0 0}.l-photo img{object-position:73% center}.l-photo:after{background:linear-gradient(0deg,#bad5e280,transparent 55%)}.l-photo-note{bottom:95px}.l-scroll{background:transparent}.v-opening h1{font-size:clamp(65px,15vw,110px)}}
