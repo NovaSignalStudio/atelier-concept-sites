@@ -7,7 +7,7 @@
  const wide=()=>innerWidth>800&&innerHeight>620;
  document.body.classList.add('v2-loaded');
  const tasting=[
-  {title:'Ritornare all’essenziale.',caption:'CINQUE PASSAGGI · ANIMA VEGETALE',courses:['Un benvenuto dall’orto','Orto, erbe e fermentazioni','Il riso, il bosco, la nocciola','Radici al fuoco vivo','Mela, miele e rosmarino'],price:'65'},
+  {title:'Ritornare all’essenziale.',caption:'CINQUE PASSAGGI · ANIMA VEGETALE',courses:['Un benvenuto dall’orto','Orto, erbe e fermentazioni','Il riso, il bosco, la nocciola','Radici al fuoco vivo','Mela, mandorla e rosmarino'],price:'65'},
   {title:'Perdersi. Ritrovarsi.',caption:'CINQUE PASSAGGI · IL PERCORSO SELVA',courses:['Un benvenuto dall’orto','Acqua dolce e note verdi','Il riso incontra il bosco','Il tempo e la brace','La dolcezza, essenziale'],price:'78'},
   {title:'Lascia spazio alla sorpresa.',caption:'LA CARTA · SEGUI IL TUO ISTINTO',courses:['Antipasti, per cominciare','Primi, tra orto e bosco','Secondi, il tempo e la brace','Dolci, l’ultimo ricordo'],price:'À la carte'}
  ];
