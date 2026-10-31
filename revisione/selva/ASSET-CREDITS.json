@@ -1,0 +1,65 @@
+[
+  {
+    "site": "selva",
+    "file": "assets/restaurant.jpg",
+    "source": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=1920&q=85&fit=crop&auto=format",
+    "bytes": 602259,
+    "usage": "Editorial stock image for a clearly labelled fictional concept; not evidence of premises, staff or patient outcomes."
+  },
+  {
+    "site": "selva",
+    "file": "assets/dish.jpg",
+    "source": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1500&q=85&fit=crop&auto=format",
+    "bytes": 273392,
+    "usage": "Editorial stock image for a clearly labelled fictional concept; not evidence of premises, staff or patient outcomes."
+  },
+  {
+    "site": "selva",
+    "file": "assets/chef.jpg",
+    "source": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=1000&q=85&fit=crop&auto=format",
+    "bytes": 257887,
+    "usage": "Editorial stock image for a clearly labelled fictional concept; not evidence of premises, staff or patient outcomes."
+  },
+  {
+    "site": "selva",
+    "file": "assets/table.jpg",
+    "source": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1000&q=85&fit=crop&auto=format",
+    "bytes": 134303,
+    "usage": "Editorial stock image for a clearly labelled fictional concept; not evidence of premises, staff or patient outcomes."
+  },
+  {
+    "site": "selva",
+    "file": "assets/ingredients.jpg",
+    "source": "https://images.unsplash.com/photo-1547592180-85f173990554?w=1200&q=85&fit=crop&auto=format",
+    "bytes": 263379,
+    "usage": "Editorial stock image for a clearly labelled fictional concept; not evidence of premises, staff or patient outcomes."
+  },
+  {
+    "site": "selva",
+    "file": "assets/wine.jpg",
+    "source": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=1000&q=85&fit=crop&auto=format",
+    "bytes": 88305,
+    "usage": "Editorial stock image for a clearly labelled fictional concept; not evidence of premises, staff or patient outcomes."
+  },
+  {
+    "file": "assets/campaign.jpg",
+    "source": "Original AI-generated campaign artwork, built-in image_gen, 2026-10-31",
+    "usage": "Fictional concept; not actual premises, staff, patients, results or a served dish.",
+    "prompt_record": "edition-02-art-direction.json",
+    "bytes": 299996
+  },
+  {
+    "site": "selva",
+    "file": "assets/ingredients-v2.jpg",
+    "source": "Original AI-generated campaign image, 2026-10-31",
+    "bytes": 526028,
+    "usage": "Fictional concept art direction. Not a real business, premises, person or clinical outcome."
+  },
+  {
+    "site": "selva",
+    "file": "assets/room-v2.jpg",
+    "source": "Original AI-generated campaign image, 2026-10-31",
+    "bytes": 387456,
+    "usage": "Fictional concept art direction. Not a real business, premises, person or clinical outcome."
+  }
+]

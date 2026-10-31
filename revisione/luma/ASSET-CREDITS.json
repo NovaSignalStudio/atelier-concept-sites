@@ -1,0 +1,51 @@
+[
+  {
+    "site": "luma",
+    "file": "assets/smile.jpg",
+    "source": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?w=1600&q=85&fit=crop&auto=format",
+    "bytes": 544739,
+    "usage": "Editorial stock image for a clearly labelled fictional concept; not evidence of premises, staff or patient outcomes."
+  },
+  {
+    "site": "luma",
+    "file": "assets/studio.jpg",
+    "source": "https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=1600&q=85&fit=crop&auto=format",
+    "bytes": 223062,
+    "usage": "Editorial stock image for a clearly labelled fictional concept; not evidence of premises, staff or patient outcomes."
+  },
+  {
+    "site": "luma",
+    "file": "assets/care.jpg",
+    "source": "https://images.unsplash.com/photo-1606811971618-4486d14f3f99?w=1200&q=85&fit=crop&auto=format",
+    "bytes": 153017,
+    "usage": "Editorial stock image for a clearly labelled fictional concept; not evidence of premises, staff or patient outcomes."
+  },
+  {
+    "site": "luma",
+    "file": "assets/portrait.jpg",
+    "source": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?w=1000&q=85&fit=crop&auto=format",
+    "bytes": 317524,
+    "usage": "Editorial stock image for a clearly labelled fictional concept; not evidence of premises, staff or patient outcomes."
+  },
+  {
+    "site": "luma",
+    "file": "assets/space.jpg",
+    "source": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1200&q=85&fit=crop&auto=format",
+    "bytes": 192596,
+    "usage": "Editorial stock image for a clearly labelled fictional concept; not evidence of premises, staff or patient outcomes."
+  },
+  {
+    "file": "assets/campaign.jpg",
+    "source": "Original AI-generated campaign artwork, built-in image_gen, 2026-10-31",
+    "usage": "Fictional concept; not actual premises, staff, patients, results or a served dish.",
+    "prompt_record": "edition-02-art-direction.json",
+    "bytes": 165226
+  },
+  {
+    "site": "luma",
+    "file": "assets/studio-v2.jpg",
+    "source": "Original AI-generated campaign image, 2026-10-31",
+    "bytes": 253796,
+    "usage": "Fictional concept art direction. Not a real business, premises, person or clinical outcome."
+  }
+]
